@@ -1,6 +1,4 @@
-These are repositories that relate to the [XMPP Interop Testing project](https://xmpp-interop-testing.github.io/).
-
-Amongst these is [a repository](https://github.com/XMPP-Interop-Testing/smack-sint-server-extensions) that contains Server-centric integration tests using Smack's Integration Test Framework, [another repository](https://github.com/XMPP-Interop-Testing/xmpp-interop-testing.github.io) that contains the public website and various repositories that contain integration with various continuous integration systems that are supported by the framework.
+These are repositories that relate to the [XMPP Interop Testing project](https://xmpp-interop-testing.github.io/). Amongst these is [a repository](https://github.com/XMPP-Interop-Testing/smack-sint-server-extensions) that contains Server-centric integration tests using Smack's Integration Test Framework, [another repository](https://github.com/XMPP-Interop-Testing/xmpp-interop-testing.github.io) that contains the public website and various repositories that contain integration with various continuous integration systems that are supported by the framework.
 
 # XMPP Interop Testing project
 
