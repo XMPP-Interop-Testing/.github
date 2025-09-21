@@ -9,3 +9,7 @@ When we came up with our idea for XMPP interop tests for server implementations,
 Instead, we’re choosing to wrap our tests in the packaging of the common CI systems (a GitHub Action, a Circle CI Orb, etc) so that whatever your regular toolchain, you can slot the tests into the test phase of your build pipeline.
 
 More information, as well as usage instructions, can be found on https://xmpp-interop-testing.github.io
+
+## Sponsoring
+
+This project is sponsored by [NLNet](https://nlnet.nl/), as part of their NGI Zero Core initiative. Their funding comes from the EU, and they sponsor projects that promote and further the open internet for the next generation.
